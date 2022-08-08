@@ -168,7 +168,7 @@ function Landing() {
 									},
 								}}
 							>
-								No more wasting time on deciding what to eat.
+								No more time wasting on deciding what to eat.
 							</Typography>
 						</motion.div>
 					</Box>
