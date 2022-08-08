@@ -5,7 +5,7 @@ import { RandomReveal } from "react-random-reveal";
 import { CafeList } from "../data/cafeList";
 
 function Home() {
-	const [isPlaying, setIsPlaying] = React.useState(true);
+	const [isPlaying, setIsPlaying] = React.useState(false);
 	React.useEffect(() => {
 		document.body.onkeyup = function (e) {
 			if (e.keyCode === 32) {
