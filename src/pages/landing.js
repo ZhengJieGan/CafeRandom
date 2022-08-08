@@ -22,7 +22,7 @@ const titleVariants = {
 
 const descVariants = {
 	offscreen: {
-		y: 250,
+		y: 200,
 		opacity: 0,
 	},
 	onscreen: {
