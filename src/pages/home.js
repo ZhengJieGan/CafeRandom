@@ -54,6 +54,9 @@ function Home() {
 					{!isPlaying ? "Random" : "Stop"}
 				</Button>
 			</Box>
+			<Box display="flex" alignItems="flex-end" height="30vh">
+				<Typography variant="overline">Source: Sharon Wong</Typography>
+			</Box>
 		</Base>
 	);
 }

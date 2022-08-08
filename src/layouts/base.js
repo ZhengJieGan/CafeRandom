@@ -5,7 +5,8 @@ function Base(props) {
 	return (
 		<Grid
 			container
-			justifyContent="center"
+            direction="column"
+			justifyContent="flex-end"
 			alignItems="center"
 			width="100%"
 			height="100vh"
