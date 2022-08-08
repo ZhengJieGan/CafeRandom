@@ -38,7 +38,7 @@ const descVariants = {
 
 const buttonVariants = {
 	offscreen: {
-		y: 150,
+		y: 100,
 		opacity: 0,
 	},
 	onscreen: {
