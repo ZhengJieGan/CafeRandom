@@ -73,7 +73,7 @@ function Landing() {
 					alignItems="flex-start"
 					sx={{
 						width: { xs: "90%", sm: "90%", md: "90%", lg: "80%" },
-						height: { xs: "95%", sm: "80%", md: "80%", lg: "50%" },
+						height: { xs: "95%", sm: "80%", md: "80%", lg: "55%" },
 					}}
 				>
 					<motion.div
