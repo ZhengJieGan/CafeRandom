@@ -94,8 +94,7 @@ export const CafeList = [
 	"Menya Hanabi",
 	"Hartton Kitchen",
 	"Roti & Kopi House",
-	"Mont Kiara",
 	"Keopi & sul",
-	"Bukit Bintang",
+	"Rock Cafe",
 	"Lucky Tora",
 ];
